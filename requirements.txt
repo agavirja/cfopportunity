@@ -1,6 +1,5 @@
 beautifulsoup4
 boto3
-mysql_connector_repackaged
 numpy
 pandas
 PyMySQL
@@ -14,3 +13,4 @@ folium
 streamlit_folium
 streamlit_aggrid
 streamlit_js_eval
+MySQLConnection
