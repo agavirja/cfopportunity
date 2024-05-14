@@ -1,0 +1,15 @@
+beautifulsoup4
+boto3
+mysql_connector_repackaged
+numpy
+pandas
+PyMySQL
+SQLAlchemy
+streamlit
+mysql_connector_repackaged
+mysql-connector-python
+numpy-financial
+geopandas
+folium
+streamlit_folium
+streamlit_aggrid
