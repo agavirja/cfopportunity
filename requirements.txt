@@ -5,12 +5,11 @@ pandas
 PyMySQL
 SQLAlchemy
 streamlit
-mysql_connector_repackaged
 mysql-connector-python
+mysql_connector_repackaged
 numpy-financial
 geopandas
 folium
 streamlit_folium
 streamlit_aggrid
 streamlit_js_eval
-MySQLConnection
