@@ -13,3 +13,4 @@ geopandas
 folium
 streamlit_folium
 streamlit_aggrid
+streamlit_js_eval
