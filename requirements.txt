@@ -20,3 +20,4 @@ streamlit-toggle
 streamlit_aggrid
 numpy-financial
 unidecode
+pymysql
